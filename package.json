@@ -1,0 +1,27 @@
+{
+  "name": "funda-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Funda NodeJS App",
+  "main": "app.js",
+  "scripts": {
+    "lol": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mimaaa/MINOR_WD_PEMA-NODE.git"
+  },
+  "author": "Mirza van Meerwijk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mimaaa/MINOR_WD_PEMA-NODE/issues"
+  },
+  "homepage": "https://github.com/Mimaaa/MINOR_WD_PEMA-NODE#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
